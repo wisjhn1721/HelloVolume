@@ -11,8 +11,8 @@ GUI designer. The GUI designer edits the Plugin GUI files for you.
 
 
 Youtube videos:
-Part 1: https://www.youtube.com/watch?v=tgJE-5PK-TE
-Part 2: https://www.youtube.com/watch?v=wZujBXIINRc
-Part 3: https://www.youtube.com/watch?v=qaMN_cA0meA
-Part 4: https://www.youtube.com/watch?v=YbqoLQp-Wu8
-Part 5: https://www.youtube.com/watch?v=mSbBe9cu7wg
+- Part 1: https://www.youtube.com/watch?v=tgJE-5PK-TE
+- Part 2: https://www.youtube.com/watch?v=wZujBXIINRc
+- Part 3: https://www.youtube.com/watch?v=qaMN_cA0meA
+- Part 4: https://www.youtube.com/watch?v=YbqoLQp-Wu8
+- Part 5: https://www.youtube.com/watch?v=mSbBe9cu7wg
