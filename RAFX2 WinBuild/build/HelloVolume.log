@@ -1,0 +1,21 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Rafx2PluginBase.cpp
+  Rafx2Plugin.cpp
+  RackAFXDLL.cpp
+  fxobjects.cpp
+  pluginparameter.cpp
+  plugingui.cpp
+C:\RackAFX_Projects\HelloVolume\PluginKernel\plugingui.cpp(1029,28): warning C4996: 'VSTGUI::UIDescription::kWriteImagesIntoXMLFile': use kWriteImagesIntoUIDescFile
+  plugincore.cpp
+  pluginbase.cpp
+  customviews.cpp
+  customcontrols.cpp
+  vstgui_win32.cpp
+C:\RackAFX_Projects\vstgui4\vstgui\lib\cview.cpp(1010,24): warning C4996: 'VSTGUI::Animation::Animator::addAnimation': was declared deprecated
+  vstgui_uidescription_win32.cpp
+  Generating Code...
+     Creating library C:\RackAFX_Projects\HelloVolume\RAFX2 WinBuild\\build\HelloVolume.lib and object C:\RackAFX_Projects\HelloVolume\RAFX2 WinBuild\\build\HelloVolume.exp
+  HelloVolume.vcxproj -> C:\Users\wisjhn\AppData\Roaming\RackAFX 7.0\PlugIns\HelloVolume.rafx2\Contents\winOS\HelloVolume.rafx2
+  Generate Bundle
+  C:\RackAFX_Projects\HelloVolume\Resources\PluginGUI.uidesc -> C:\Users\wisjhn\AppData\Roaming\RackAFX 7.0\PlugIns\HelloVolume.rafx2\Contents\Resources\PluginGUI.uidesc
+  1 File(s) copied
