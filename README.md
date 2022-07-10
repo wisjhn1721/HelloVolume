@@ -6,7 +6,7 @@ The bulk of the work will be found in two files in the Plugin Kernel/Plugin Core
 In plugincore.cpp you will find the signal processing algorithm for this pluging in the method processAudioFrame().
 
 The GUI is built from resources in the Plugin Kernal/Plugin GUI directory.
-The beauty of RackAFX is that it allows you to focus on the signal processing algorithm and not so much on the GUI design. Because of this, RackAFX comes with a built-in
+The beauty of RackAFX is that it allows you to focus on the signal processing algorithm and not as much on the GUI design. Because of this, RackAFX comes with a built-in
 GUI designer. The GUI designer edits the Plugin GUI files for you. 
 
 
