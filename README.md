@@ -8,3 +8,11 @@ In plugincore.cpp you will find the signal processing algorithm for this pluging
 The GUI is built from resources in the Plugin Kernal/Plugin GUI directory.
 The beauty of RackAFX is that it allows you to focus on the signal processing algorithm and not so much on the GUI design. Because of this, RackAFX comes with a built-in
 GUI designer. The GUI designer edits the Plugin GUI files for you. 
+
+
+Youtube videos:
+Part 1: https://www.youtube.com/watch?v=tgJE-5PK-TE
+Part 2: https://www.youtube.com/watch?v=wZujBXIINRc
+Part 3: https://www.youtube.com/watch?v=qaMN_cA0meA
+Part 4: https://www.youtube.com/watch?v=YbqoLQp-Wu8
+Part 5: https://www.youtube.com/watch?v=mSbBe9cu7wg
